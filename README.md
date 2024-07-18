@@ -24,7 +24,7 @@ The calculator allows users to perform basic arithmetic operations (addition, su
 # How to Use
 
     Clone or download the repository to your local machine.
-    Open the index.html file in a web browser.
+    Open the .html file in a web browser.
     Use the calculator by clicking on the buttons to input numbers and operators.
     Click "=" to calculate the result of the expression displayed.
     Click "C" to clear the display and start over.
